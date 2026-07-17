@@ -28,7 +28,7 @@ The system also displays the received commands and device status on a 16x2 LCD.
 ## Hardware Requirements
 
 * LPC2129 ARM7 Development Board
-* GSM Module (SIM800/SIM900)
+* GSM Module (SIM800C)
 * 16x2 LCD Display
 * Relay Module / Driver Circuit
 * DC Fan / Motor
