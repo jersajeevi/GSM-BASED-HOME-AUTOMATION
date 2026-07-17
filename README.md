@@ -75,7 +75,7 @@ The system also displays the received commands and device status on a 16x2 LCD.
 | *ALL ON#     | Turn ON all devices  |
 | *ALL OFF#    | Turn OFF all devices |
 
-> Note: Commands must end with '#' character.
+> Note: Commands must start with '*' and end with '#' character.
 
 ---
 
